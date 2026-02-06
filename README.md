@@ -1,9 +1,9 @@
-# AI / ML Jupyter Programs
+ ## Notebooks
 
-This repository contains Python and AI/ML practice notebooks created using Jupyter Notebook.
+- 01_numpy_practice.ipynb  
+  NumPy basics: arrays, random numbers, mean, min, max, sum.
 
-## Notebooks
-- data_visualisation_basics.ipynb  
+- 02_data_visualisation_basics.ipynb  
   Basic data visualisation using Pandas, NumPy, and Matplotlib.
 
 ## Tools Used
